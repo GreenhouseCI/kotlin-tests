@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinTests</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_add_item">Add item</string>
+    <string name="tv_no_items">Please add some items!</string>
+    <string name="edit_hint">Item description</string>
+    <string name="btn_delete">X</string>
+</resources>
